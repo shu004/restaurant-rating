@@ -21,3 +21,4 @@ def restaurant_rating(filename):
             restaurant_rating = restaurant[1]
 
             print(f"{restaurant_name} is rated at {restaurant_rating}")
+
